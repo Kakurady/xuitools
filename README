@@ -1,0 +1,18 @@
+xuitools
+
+	A collection of one script to help localize Second Life and derived clients. 
+
+
+Usage
+
+	./xdriver.sh /path/to/viewer/skins/default/xui/en/ /path/to/viewer/skins/default/xui/zh/ | msguniq > catalog.po
+
+Requirements
+
+	Python, gettext (optional)
+
+License
+
+	To be decided
+
+Second Life® is a trademark of Linden Research, Inc. Referenced for identification only.
